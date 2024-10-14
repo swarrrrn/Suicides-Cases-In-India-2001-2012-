@@ -61,17 +61,10 @@ Statistical measures were computed to understand the variability and spread of s
 - **Standard Deviation**: The spread of suicides across different states.
 - **Variance**: How widely the suicide rates vary across different states.
 
-## Contributing
-
-Contributions are welcome! Please follow the steps below to contribute:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make the necessary changes and commit your code (`git commit -m 'Add new feature'`).
-4. Push your branch (`git push origin feature-branch`).
-5. Open a pull request.
+## License
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/swarrrrn/Suicides-Cases-In-India-2001-2012-/blob/main/LICENSE) file for details.
+
 
