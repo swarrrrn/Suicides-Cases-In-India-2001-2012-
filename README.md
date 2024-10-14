@@ -63,8 +63,6 @@ Statistical measures were computed to understand the variability and spread of s
 
 ## License
 
-## License
-
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/swarrrrn/Suicides-Cases-In-India-2001-2012-/blob/main/LICENSE) file for details.
 
 
