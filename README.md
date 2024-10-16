@@ -50,7 +50,7 @@ The project contains multiple visualizations that help understand the data more 
 - **Pie Charts** illustrating the percentage distribution of suicide causes.
 
 ### Examples:
-- **Figure: Suicide Trend by Year (2001–2012)**
+- ![Suicide Rate Analysis](file:///Users/swarnkumar/Downloads/Screenshot%202024-10-16%20at%204.31.07%E2%80%AFPM.jpg)
 - **Figure: Suicide Rate by Gender (Male vs Female)**
 
 ## Statistical Analysis
